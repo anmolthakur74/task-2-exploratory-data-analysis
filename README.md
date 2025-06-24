@@ -54,8 +54,9 @@ This task emphasized how important it is to conduct EDA before even thinking abo
 2. ```bash
    pip install pandas numpy matplotlib seaborn plotly
 
-3. jupyter notebook titanic_EDA.ipynb
+3. ```bash
+   jupyter notebook titanic_EDA.ipynb
 
 ## Author
 Anmol Thakur
-GitHub: anmolthakur74
+GitHub: [Link Text](anmolthakur74)
