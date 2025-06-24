@@ -51,7 +51,8 @@ This task emphasized how important it is to conduct EDA before even thinking abo
    git clone https://github.com/YOUR_USERNAME/task-2-exploratory-data-analysis.git
    cd task-2-exploratory-data-analysis
 
-2. pip install pandas numpy matplotlib seaborn plotly
+2. ```bash
+   pip install pandas numpy matplotlib seaborn plotly
 
 3. jupyter notebook titanic_EDA.ipynb
 
